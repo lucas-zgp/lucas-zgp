@@ -5,13 +5,11 @@
 <table>
 <tr>
 <td style = "width: 50%;">
-[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=lucas-zgp&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
-
+[![Lucas' github stats](https://github-readme-stats.vercel.app/api?username=lucas-zgp&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
 </td>
 <td style = "width: 50%;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-zgp&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
-
 </td>
 </tr>
 <tr>
